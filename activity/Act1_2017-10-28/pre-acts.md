@@ -13,7 +13,7 @@ http://make.girls.moe/
 - Neural Photo Editor: human face editor. Available on Github.
 - illustration2vec: anime character classifier. Available on Github.
 
-Share your results and thoughts about these projects.
+Share your results and thoughts about these projects. Reading the paper of these projects will be beneficial, but may require some basic understanding of GAN research.
 
 ## Learn the basics (VERY IMPORTANT)
 
@@ -21,7 +21,7 @@ Share your results and thoughts about these projects.
 * DCGAN on github.
 * Reading papers cited by above is strongly recommended. This will help you get into GAN field.
 
-Reproduction of this paper if strongly recommended.
+Reproduction of this paper is strongly recommended.
 
 Share your understanding of the paper and the code of the project.
 
