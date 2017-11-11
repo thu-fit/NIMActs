@@ -36,4 +36,5 @@ tensorflow框架下的DCGAN复现：
 1. 寇明阳：illustration2vec 模型分类数据集。
 2. 游凯超：利用pytorch框架进行数据集装载。
 3. 徐鉴劲：参考Improved WGAN搭建项目框架。
-4. 贾越凯，秦增益：机动。
+4. 贾越凯：DCGAN在MNIST上的复现，并实现简单的优化。iGAN代码理解。
+5. 秦增益：背景调研make.girls的设置，illustration2vec 模型分类数据集.
